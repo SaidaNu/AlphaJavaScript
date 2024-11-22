@@ -46,8 +46,8 @@ console.log("Hello, World!");
 // console.log(firstLineOfMessage);
 // console.log(secondLineOfMessage);
 
-const fileName = "data.csv";
-const fileSize = 2048;
-const message = `Файл ${fileName} успешно загружен.
-Размер файла ${fileSize} кБ.`;
-console.log(message);
+// const fileName = "data.csv";
+// const fileSize = 2048;
+// const message = `Файл ${fileName} успешно загружен.
+// Размер файла ${fileSize} кБ.`;
+// console.log(message);
