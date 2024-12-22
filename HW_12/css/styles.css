@@ -1,0 +1,50 @@
+html {
+  background-color: aquamarine;
+}
+
+.result {
+  height: 350px;
+  width: 350px;
+  border: solid black;
+  margin: 0 auto;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.square {
+  height: 250px;
+  width: 250px;
+  background-color: rgb(202, 130, 172) ;
+}
+
+.circle {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  background-color: rgb(202, 130, 172) ;
+}
+
+.manage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+  gap: 10px;
+}
+
+.label {
+  margin-bottom: 5px;
+}
+
+.figure {
+  color: whitesmoke;
+  font-size: 30px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
